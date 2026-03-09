@@ -248,6 +248,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
+- <img src="https://raw.githubusercontent.com/iamseyhmus7/mcp-web-scraper/main/logo.png" width="20" height="20" valign="middle"> **[mcp-web-scraper](https://github.com/iamseyhmus7/mcp-web-scraper)** - Playwright-based autonomous web scraper with JS rendering, form filling, screenshots, queue processing and page change monitoring. ([PyPI](https://pypi.org/project/mcp-web-scraper/)) — by [@iamseyhmus7](https://github.com/iamseyhmus7)
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
 - [agent-infra/mcp-server-browser](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser) 📇 🏠 - Browser automation capabilities using Puppeteer, both support local and remote browser connection.
 - [aparajithn/agent-scraper-mcp](https://github.com/aparajithn/agent-scraper-mcp) [glama](https://glama.ai/mcp/servers/@aparajithn/agent-scraper-mcp) 🐍 ☁️ - Web scraping MCP server for AI agents. 6 tools: clean content extraction, structured scraping with CSS selectors, full-page screenshots via Playwright, link extraction, metadata extraction (OG/Twitter cards), and Google search. Free tier with x402 micropayments.
